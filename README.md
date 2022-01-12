@@ -19,3 +19,11 @@
 - Serviço de dominio lidam com regras de negócio:
   -  que não fazem sentido ficar na entidade
   -  orquestram chamadas de regras na entidade
+
+## Granularidade
+- Classes de domínio muito pequenas, tendem que suas regras vazam para o serviço ou pior, a camada da aplicação
+- Classes de dominio coesas e com a granularidade certa, deixam para os serviços apenas orquestrarem as chamadas.
+
+## Módulo
+- Os módulos devem ser coesos, assim minimiza o acoplamento com outros módulos
+- o módulo deve contar uma história, ou seja, objetos (classes) que pertencem ao mesmo contexto de negócio.

@@ -13,7 +13,7 @@
 - Podem ser compartilhados entre as entidades
 - Ideal que sejam imutáveis
 
-## Servido
+## Serviços
 - Serviço da aplicação lida com as entradas e respostas da mesma
 - Serviço de infra estrutura cuida de comunicações externas ou tratativas de baixo nível
 - Serviço de dominio lidam com regras de negócio:

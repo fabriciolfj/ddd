@@ -27,3 +27,9 @@
 ## Módulo
 - Os módulos devem ser coesos, assim minimiza o acoplamento com outros módulos
 - o módulo deve contar uma história, ou seja, objetos (classes) que pertencem ao mesmo contexto de negócio.
+
+## Agragador
+- Conjunto de objetos, que se relacionam e pertencem ao mesmo contexto.
+- A comunicação com esse conjunto é realizado via entidade raiz, ou seja, o objeto mestre.
+- obs: essa entidade deve ter um identificador unico.
+- os objetos de valores também podem ter identificadores unicos, mas valem apenas dentro do agregador.

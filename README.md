@@ -28,8 +28,15 @@
 - Os módulos devem ser coesos, assim minimiza o acoplamento com outros módulos
 - o módulo deve contar uma história, ou seja, objetos (classes) que pertencem ao mesmo contexto de negócio.
 
-## Agragador
+## Agregador
 - Conjunto de objetos, que se relacionam e pertencem ao mesmo contexto.
 - A comunicação com esse conjunto é realizado via entidade raiz, ou seja, o objeto mestre.
 - obs: essa entidade deve ter um identificador unico.
 - os objetos de valores também podem ter identificadores unicos, mas valem apenas dentro do agregador.
+
+
+### Fabrica do agregador
+- Quando a criação do modelo é complexo, faz a necessidade de uma fabrica
+- ela faz parte do dominio mas não do modelo, ou seja, a função é apenas criar o agregador
+- pode-se criar parte do agregador e este ser populado no decorrer do seu ciclo de vida
+- o cliente não pode criar a entidade, caso esta seja complexa, nesse caso chamar a fabrica

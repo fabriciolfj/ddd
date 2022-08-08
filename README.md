@@ -7,6 +7,7 @@
 
 ## Linguagem onipresente
 - time técnico falar a mesma lingua do negócio
+- se ater a complexidade do negócio
 
 ## Entidade
 - Possui um identidade, onde representa que aquele instancia é unica

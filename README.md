@@ -8,7 +8,15 @@
   - o conhecimento do domínio, ou seja, as regras de negócio. 
   - solução para o problema
 - contexto delimitado
-  - relação entre o modelo com o do dominio  
+  - relação entre o modelo com o do dominio 
+
+## Tipos de subdominios
+- coredomain (exemplo empresa de vendas)
+  - atividade do dominio, que diferencia o negócio
+- subdomínios de suporte
+  - da suporte ao domain (operação principal, ex: logística, fiscal)
+- subdominios genericos
+  - nao tem relação direta com o coredomain (financeiro, rh, contabilidade)
 
 ## Linguagem onipresente
 - time técnico falar a mesma lingua do negócio

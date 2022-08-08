@@ -14,9 +14,9 @@
 - coredomain (exemplo empresa de vendas)
   - atividade do dominio, que diferencia o negócio
 - subdomínios de suporte
-  - da suporte ao domain (operação principal, ex: logística, fiscal)
+  - da suporte ao domain (operação principal, ex: logística, fiscal, que fornecem dados ou atividades ao core domain)
 - subdominios genericos
-  - nao tem relação direta com o coredomain (financeiro, rh, contabilidade)
+  - nao tem relação direta com o coredomain (financeiro, rh, contabilidade, muitas vezes atendidos por softwares de prateleira)
 
 ## Linguagem onipresente
 - time técnico falar a mesma lingua do negócio

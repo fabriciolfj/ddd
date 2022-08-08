@@ -1,8 +1,12 @@
 # Resumo livro domain drive design
 - Dominio
   - representação de um contexto do negócio, como por exemplo: alocação de produtos no estoque 
+  = não pode ser anêmico, ou seja, a falta de informações do dominio
 - Modelo
   - o conhecimento do domínio, ou seja, as regras de negócio. 
+
+## Linguagem onipresente
+- time técnico falar a mesma lingua do negócio
 
 ## Entidade
 - Possui um identidade, onde representa que aquele instancia é unica

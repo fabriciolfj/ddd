@@ -10,7 +10,7 @@
 - contexto delimitado
   - relação entre o modelo com o do dominio 
 
-## Tipos de subdominios
+## Tipos de subdominios - pertence a parte do problema
 - coredomain (exemplo empresa de vendas)
   - atividade do dominio, que diferencia o negócio
 - subdomínios de suporte

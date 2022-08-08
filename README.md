@@ -8,7 +8,7 @@
   - o conhecimento do domínio, ou seja, as regras de negócio. 
   - solução para o problema
 - contexto delimitado
-  - relação entre a o modelo com o do dominio  
+  - relação entre o modelo com o do dominio  
 
 ## Linguagem onipresente
 - time técnico falar a mesma lingua do negócio

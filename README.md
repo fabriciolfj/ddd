@@ -2,9 +2,13 @@
 - Dominio
   - representação de um contexto do negócio, como por exemplo: alocação de produtos no estoque 
   - aonde encontra-se o problema
+- subdominio
+  - quando o dominio e complexo, nos os dividimos 
 - Modelo
   - o conhecimento do domínio, ou seja, as regras de negócio. 
   - solução para o problema
+- contexto delimitado
+  - relação entre a o modelo com o do dominio  
 
 ## Linguagem onipresente
 - time técnico falar a mesma lingua do negócio

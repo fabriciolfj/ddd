@@ -8,13 +8,14 @@
   - o conhecimento do domínio, ou seja, as regras de negócio. 
   - solução para o problema
 - contexto delimitado
+  - até onde o subdominio vai
   - relação entre o modelo com o do dominio 
 
 ## Tipos de subdominios - pertence a parte do problema
 - coredomain (exemplo empresa de vendas)
   - atividade do dominio, que diferencia o negócio
 - subdomínios de suporte
-  - da suporte ao domain (operação principal, ex: logística, fiscal, que fornecem dados ou atividades ao core domain)
+  - da suporte ao domain ou seja, aperação principal, ex: logística, fiscal, que fornecem dados ou atividades ao core domain)
 - subdominios genericos
   - nao tem relação direta com o coredomain (financeiro, rh, contabilidade, muitas vezes atendidos por softwares de prateleira)
 
